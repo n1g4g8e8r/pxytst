@@ -1,0 +1,4 @@
+!#/bin/bash
+
+rm -r -f pxytst/ y
+git clone https://github.com/n1g4g8e8r/pxytst
